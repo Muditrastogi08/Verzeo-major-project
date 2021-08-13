@@ -3,3 +3,4 @@
 ![home](https://user-images.githubusercontent.com/75464310/129412333-e055fc3a-1f19-442d-9d73-31062b45e6cf.jpeg)
 ![login](https://user-images.githubusercontent.com/75464310/129412609-4089a595-8267-4c8a-8894-2398cc82c5d3.jpeg)
 ![quiz](https://user-images.githubusercontent.com/75464310/129412661-d4027ed8-44b2-43d6-976b-ff2167dc2036.jpeg)
+![result](https://user-images.githubusercontent.com/75464310/129412706-4a34888e-a6e5-4167-92f5-a75be0da12d5.jpeg)
