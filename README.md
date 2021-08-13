@@ -1,5 +1,2 @@
 # Flutter Riverpod Quiz App | Apps From Scratch
-
-[YouTube Video](https://youtu.be/H2uEIRNM7TE)
-
-[Writeup](https://www.launchclub.io/blog/flutter-riverpod-quiz-app)
+![playstore](https://user-images.githubusercontent.com/75464310/129411190-b4f4b636-47ea-405b-81b7-027aa0af8d6b.png)
